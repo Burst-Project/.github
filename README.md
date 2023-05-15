@@ -1,1 +1,1 @@
-# .github
+# Burst Project
